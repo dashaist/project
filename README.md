@@ -1,7 +1,10 @@
-'# Project' 
-'This is awesome project.'
-'## How to start'
+# Project
+This is awesome project.
+
+## How to start
 ## Some new section here
 
+## Conflict
+
 ## Author
-[Author](author.md)
+Author
